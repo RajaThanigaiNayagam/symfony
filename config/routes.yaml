@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#post_list:
+#    path: /liste-des-articles
+#    controller: App\Controller\PostController::list
